@@ -20,12 +20,12 @@ kr=compGame();
 p.addEventListener("click",()=>
 { mu[4].play()
     kr=compGame();r
-    game('r',kr);
+    game('p',kr);
 });
 s.addEventListener("click",()=>
 { mu[4].play()
     kr=compGame();
-    game('r',kr);
+    game('s',kr);
 });
 
 function game(m,q){
