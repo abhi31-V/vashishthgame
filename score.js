@@ -100,13 +100,13 @@ function res11(r)
 {
     if(r=='draw')
     {
-        document.getElementById('sc1').innerHTML=r+'🤝🤝'
+        document.getElementById('sc1').innerHTML=r+' 🤝🤝'
     }
 else if(r=='loose'){
-document.getElementById('sc1').innerHTML='You'+' '+r+'☹️😔'
+document.getElementById('sc1').innerHTML='You'+' '+r+' ☹️😔'
     }
     else{
-        document.getElementById('sc1').innerHTML='You'+' '+r+'🎉🎊🔥'
+        document.getElementById('sc1').innerHTML='You'+' '+r+' 🎉🎊🔥'
     }
 
 }
